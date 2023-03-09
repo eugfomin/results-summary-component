@@ -144,6 +144,7 @@ main {
     flex-direction: column;
     justify-content: start;
     height: 100%;
+    width: 100%;
   }
   .result-container {
     width: 100%;
@@ -161,5 +162,8 @@ main {
   }
   .result-container__desc {
     margin-bottom: 20px;
+  }
+  .summary-container {
+    width: 100%;
   }
 }
