@@ -141,10 +141,11 @@ main {
   .result-container {
     width: 100%;
     border-radius: 0 0 16px 16px;
-    height: 45%;
   }
+
   .result-container h1 {
     margin-top: 15px;
+    margin-bottom: 15px;
   }
   .summary-container {
     gap: 20px;
